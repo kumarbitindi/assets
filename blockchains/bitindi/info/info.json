@@ -1,0 +1,21 @@
+{
+    "name": "Bitindi Chain",
+    "website": "https://bitindi.com/",
+    "description": "Bitindi is a decentralized and cost-efficient public chain that Ethereum developers can easily get started with and smart contracts are seamlessly compatible.",
+    "explorer": "https://bitindiscan.com/",
+    "symbol": "BNI",
+    "type": "coin",
+    "decimals": 18,
+    "rpc_url": "https://rpc-mainnet.bitindi.org",
+    "status": "active",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/bitindichain"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/bitindi"
+        }
+    ]
+}
