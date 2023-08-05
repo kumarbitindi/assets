@@ -1,1 +1,21 @@
-
+{
+    "name": "Bitindi-Peg BNI Token",
+    "type": "BIP20",
+    "symbol": "WBNI",
+    "decimals": 18,
+    "website": "https://bitindi.com",
+    "description": "Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize content and applications",
+    "explorer": "https://bitindiscan.com/token/0x15E162205421dc3A47b15A1A740FbF5EAbB77921",
+    "status": "active",
+    "id": "0x15E162205421dc3A47b15A1A740FbF5EAbB77921",
+    "links": [
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/bitindi-chain/"
+        }
+    ],
+    "tags": [
+        "blockchain",
+        "bitindi-tag"
+    ]
+}
