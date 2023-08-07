@@ -1,0 +1,36 @@
+{
+    "name": "Antofy",
+    "type": "BEP20",
+    "symbol": "ABN",
+    "decimals": 9,
+    "website": "https://antofy.io",
+    "description": "Antofy is a decentralized, high-efficiency, and energy-saving public blockchain. It is compatible with smart contracts and supports high-performance transactions.",
+    "explorer": "https://bscscan.com/token/0xdcc4C24CfC2df6970b6B7DE62b929C4189E25599",
+    "status": "active",
+    "id": "0xdcc4C24CfC2df6970b6B7DE62b929C4189E25599",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/0xantofy"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/antofylabs"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://docs.antofy.io"
+        },
+        {
+            "name": "source_code",
+            "url": "https://bscscan.com/address/0xdcc4C24CfC2df6970b6B7DE62b929C4189E25599#code"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/antofy"
+        }
+    ],
+    "tags": [
+        "blockchain"
+    ]
+} 
